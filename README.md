@@ -11,7 +11,7 @@ git clone git@github.com:umovme/umovme-online-connector-node.git
 
 Resolve Dependences
 ```
-$ > cd umovme-online-connector && npm install
+$ > cd umovme-online-connector-node && npm install
 $ > DEBUG=umovme-online-connector:* npm start
 ```
 
