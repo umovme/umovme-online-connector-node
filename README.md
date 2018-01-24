@@ -1,4 +1,4 @@
-# Dependences 
+# Dependences
 
 * [NodeJS / NPM](https://nodejs.org/en/download)
 
@@ -13,8 +13,8 @@ $ > cd umovme-online-connector-node && npm install
 $ > DEBUG=umovme-online-connector:* npm start
 ```
 
-## Examples
-* Image List
+# Examples
+## Image List
 
 Request
 ```
@@ -39,7 +39,7 @@ Response
 }
 ```
 
-* Data List
+## Data List
 
 Request
 ```
@@ -83,8 +83,7 @@ Response
 	}
 }
 ```
-
-* Images and Data List
+## Images and Data List
 
 Request
 ```
