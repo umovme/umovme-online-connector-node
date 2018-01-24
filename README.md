@@ -2,22 +2,20 @@
 
 * [NodeJS / NPM](https://nodejs.org/en/download)
 
-### Setup
-
-Cloning Repo:
-```
+* Cloning Repo:
+```shell
 git clone git@github.com:umovme/umovme-online-connector-node.git
 ```
 
-Resolve Dependences
+* Resolve Dependences
 ```shell
 $ > cd umovme-online-connector-node && npm install
 $ > DEBUG=umovme-online-connector:* npm start
 ```
 
-## EXAMPLES
-
+## Examples
 ### Image List
+
 Request
 ```
 URL: http://localhost:3000/components/images
@@ -42,6 +40,7 @@ Response
 ```
 
 ### Data List
+
 Request
 ```
 URL: http://localhost:3000/components/datalist
@@ -86,6 +85,7 @@ Response
 ```
 
 ### Images and Data List
+
 Request
 ```
 URL: http://localhost:3000/components/images-and-datalist
