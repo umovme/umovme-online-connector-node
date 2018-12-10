@@ -2,7 +2,7 @@
   "name": "UMovMe Mock Online Connector",
   "description": "Mocked online connector",
   "repository": "https://github.com/umovme/umovme-online-connector-node.git",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
